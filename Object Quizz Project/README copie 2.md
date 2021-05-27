@@ -1,3 +1,3 @@
 # Jedha-bootcamp
 
-# Projet : création d'un quizz progrgammé avec une classe
+# Projet : création d'un quizz programmé avec une classe
